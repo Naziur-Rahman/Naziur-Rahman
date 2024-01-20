@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [biker-zone](https://naziur-rahman.github.io/biker-zone/ra)
 
-- 🌱 I’m currently learning **React,php,laravel**
+- 🌱 I’m currently learning ** React, PHP, laravel **
 
 - 👯 I’m looking to collaborate on [Dream_Camera](https://naziur-rahman.github.io/Dream_Camera/)
 
@@ -26,7 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/03naziur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="03naziur" height="30" width="40" /></a>
+<a href="https://fb.com/03naziur" target="blank"><img src="![image](https://github.com/Naziur-Rahman/Naziur-Rahman/assets/72025221/ef910be9-acaf-4e5d-abda-98d35b59b6ac)
+" alt="codeing" width="400"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
