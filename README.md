@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Md Naziur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img src='https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018'>
+<img src="![image](https://github.com/Naziur-Rahman/Naziur-Rahman/assets/72025221/666201e6-f4d0-4020-b4c0-dd1c6d9d94ff)
+">
 
 
 - 🔭 I’m currently working on [biker-zone](https://naziur-rahman.github.io/biker-zone/ra)
