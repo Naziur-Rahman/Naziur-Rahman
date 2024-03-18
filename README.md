@@ -24,6 +24,6 @@ I'm a Frontend Web Developer with expertise in HTML, CSS, JavaScript, Bootstrap,
 - [GitHub Repositories](https://github.com/Naziur-Rahman?tab=repositories) <!-- Replace with your GitHub profile URL -->
 
 ### Here's a fun GIF for you:
-![Coding Animation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Coding Animation](https://media.giphy.com/media/cJlph83mU4AE8/giphy.gif)
 
 Feel free to reach out to me for collaboration or any queries! 😊
