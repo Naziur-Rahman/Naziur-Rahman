@@ -6,6 +6,8 @@ I'm a Frontend Web Developer with expertise in HTML, CSS, JavaScript, Bootstrap,
 
 🌱 I’m continuously learning and exploring new technologies to stay updated with the latest trends in web development.
 
+ 🎨 I enjoy designing intuitive user interfaces.
+
 ## Skills
 
 - **HTML/CSS**: Crafting clean and semantic web pages.
@@ -16,8 +18,8 @@ I'm a Frontend Web Developer with expertise in HTML, CSS, JavaScript, Bootstrap,
 - **Python**: Exploring data science and automation.
 
 ### Connect with Me:
-[![LinkedIn][(https://www.linkedin.com/in/md-naziur-rahman-8470591b6/)]
-[![Twitter] [(https://twitter.com/MdNaziu67322552)]
+[![LinkedIn][(#https://www.linkedin.com/in/md-naziur-rahman-8470591b6/)]
+[![Twitter] [(#https://twitter.com/MdNaziu67322552)]
 
 ### Check out some of my work:
 - [Portfolio Website](https://naziur-rahman.github.io/naziur__portfoilo/) <!-- Replace # with your portfolio website URL -->
