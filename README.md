@@ -17,7 +17,7 @@ I'm a Frontend Web Developer with expertise in HTML, CSS, JavaScript, Bootstrap,
 
 ### Connect with Me:
 [![LinkedIn][(https://www.linkedin.com/in/md-naziur-rahman-8470591b6/)]
-[![Twitter](https://twitter.com/MdNaziu67322552)]
+[![Twitter] [(https://twitter.com/MdNaziu67322552)]
 
 ### Check out some of my work:
 - [Portfolio Website](https://naziur-rahman.github.io/naziur__portfoilo/) <!-- Replace # with your portfolio website URL -->
