@@ -16,11 +16,11 @@ I'm a Frontend Web Developer with expertise in HTML, CSS, JavaScript, Bootstrap,
 - **Python**: Exploring data science and automation.
 
 ### Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-naziur-rahman-blue)](https://www.linkedin.com/in/naziur-rahman)
-[![Twitter](https://img.shields.io/twitter/follow/naziur_rahman?style=social)](https://twitter.com/naziur_rahman)
+[![LinkedIn][(https://www.linkedin.com/in/md-naziur-rahman-8470591b6/)]
+[![Twitter](https://twitter.com/MdNaziu67322552)]
 
 ### Check out some of my work:
-- [Portfolio Website](#) <!-- Replace # with your portfolio website URL -->
+- [Portfolio Website](https://naziur-rahman.github.io/naziur__portfoilo/) <!-- Replace # with your portfolio website URL -->
 - [GitHub Repositories](https://github.com/Naziur-Rahman?tab=repositories) <!-- Replace with your GitHub profile URL -->
 
 
