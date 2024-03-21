@@ -7,8 +7,7 @@ I'm a Frontend Web Developer with expertise in HTML, CSS, JavaScript, Bootstrap,
 🌱 I’m continuously learning and exploring new technologies to stay updated with the latest trends in web development.
 
  🎨 I enjoy designing intuitive user interfaces.
- 
- 💬 Ask me about anything related to frontend develop 
+
 
 ## Skills
 
